@@ -2,7 +2,7 @@
 
 ## How to use
 
-- Relesse下载homework-debug.apk
+- Relesse下载app-debug.apk
 
 - 对应目录下终端运行
 
