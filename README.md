@@ -2,7 +2,7 @@
 
 ## How to use
 
-- Relesse下载app-debug.apk
+- Release下载app-debug.apk
 
 - 对应目录下终端运行
 
