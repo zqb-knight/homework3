@@ -1,5 +1,13 @@
 # homework3
 
+## How to use
+
+- Relesse下载homework-debug.apk
+
+- 对应目录下终端运行
+
+  **adb install -t app-debug.apk**
+
 ## 练习一
 
 ### TODO1:将 lottie 控件的相关属性补全
